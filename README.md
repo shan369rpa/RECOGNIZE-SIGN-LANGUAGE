@@ -37,7 +37,7 @@ Phần mềm tự động phát hiện khung xương tay và hiển thị chữ 
 *   **Smart Guide:** Tự động ẩn hướng dẫn khi phát hiện tay để màn hình thoáng đãng.
 
 > ![Collect Image](img/detect.PNG)
-> *Hình 2: AI nhận diện chữ "Xin Chào" với độ tin cậy 98%.*
+> *Hình 2: AI nhận diện chữ "A".*
 
 ---
 
@@ -45,7 +45,7 @@ Phần mềm tự động phát hiện khung xương tay và hiển thị chữ 
 Công cụ giúp người dùng dạy từ mới cho máy. Có các chỉ dẫn trực quan về cách đặt tay, xoay cổ tay để đạt hiệu quả cao nhất.
 
 > ![Collect Image](img/collect.PNG)
-> *Hình 3: Giao diện thu thập dữ liệu với hiệu ứng thông báo "ĐÃ LƯU".*
+> *Hình 3: Giao diện chức năng thu thập dữ liệu.*
 
 ---
 
