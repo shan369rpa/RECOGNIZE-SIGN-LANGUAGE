@@ -59,6 +59,10 @@ Sau khi thu thập dữ liệu, chức năng này sẽ kích hoạt thuật toá
 
 ## 📖 Hướng Dẫn Sử Dụng Chi Tiết
 
+### Bước 0: Tải app
+
+Tải file và giải nén. [⬇️ Tải dist.zip (Google Drive)](https://drive.google.com/file/d/1XuAx6KEMBRmTrHBci_qY9s4NV7elU001/view?usp=sharing)
+
 ### Bước 1: Khởi động
 Chạy file `software_launcher.exe` trong thư mục cài đặt.
 
