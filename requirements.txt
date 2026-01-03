@@ -4,3 +4,5 @@ protobuf==3.20.3
 scikit-learn
 pandas
 numpy<2.0
+pillow
+tqdm
