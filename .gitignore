@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+env/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings (VS Code, PyCharm...)
+.vscode/
+.idea/
+
+# Dataset files (Dữ liệu thô thường nặng, không nên push lên git)
+Dataset_Roboflow/
+Downloads/
+*.zip
+*.csv
+# Ngoại trừ file landmark_data.csv nếu bạn muốn chia sẻ nó (tùy chọn)
+# !landmark_data.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
