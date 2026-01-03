@@ -16,7 +16,7 @@ __pycache__/
 Dataset_Roboflow/
 Downloads/
 *.zip
-*.csv
+# *.csv
 # Ngoại trừ file landmark_data.csv nếu bạn muốn chia sẻ nó (tùy chọn)
 # !landmark_data.csv
 
