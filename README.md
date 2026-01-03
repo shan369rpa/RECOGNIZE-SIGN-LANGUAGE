@@ -106,7 +106,7 @@ Nếu bạn muốn tùy chỉnh mã nguồn, vui lòng cài đặt môi trườn
 
 1.  **Clone Repo:**
     ```bash
-    git clone https://github.com/shan369rpa/RECOGNIZE-SIGN-LANGUAGE/tree/master
+    git clone [https://github.com/shan369rpa/RECOGNIZE-SIGN-LANGUAGE.git](https://github.com/shan369rpa/RECOGNIZE-SIGN-LANGUAGE.git)
     ```
 2.  **Cài đặt thư viện:**
     ```bash
