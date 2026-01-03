@@ -26,7 +26,7 @@ Phần mềm hoạt động **hoàn toàn Offline**, không cần internet và �
 ### 1. Bảng Điều Khiển Trung Tâm (Dashboard)
 Giao diện chính hiện đại, cho phép truy cập nhanh vào 3 chức năng cốt lõi: Nhận diện, Thu thập dữ liệu và Huấn luyện AI. Hệ thống Log bên dưới giúp theo dõi trạng thái phần mềm.
 
-> **[CHÈN HÌNH ẢNH GIAO DIỆN CHÍNH (software_launcher) TẠI ĐÂY]**
+> ![Collect Image](img/software_launcher.PNG)
 > *Hình 1: Màn hình khởi động phần mềm.*
 
 ---
@@ -36,7 +36,7 @@ Phần mềm tự động phát hiện khung xương tay và hiển thị chữ 
 *   **Chế độ Fullscreen:** Tối ưu trải nghiệm nhìn.
 *   **Smart Guide:** Tự động ẩn hướng dẫn khi phát hiện tay để màn hình thoáng đãng.
 
-> **[CHÈN VIDEO HOẶC HÌNH ẢNH KHI ĐANG NHẬN DIỆN (main_app) TẠI ĐÂY]**
+> ![Collect Image](img/detect.PNG)
 > *Hình 2: AI nhận diện chữ "Xin Chào" với độ tin cậy 98%.*
 
 ---
@@ -44,7 +44,7 @@ Phần mềm tự động phát hiện khung xương tay và hiển thị chữ 
 ### 3. Chức Năng Thu Thập Dữ Liệu (Data Collection)
 Công cụ giúp người dùng dạy từ mới cho máy. Có các chỉ dẫn trực quan về cách đặt tay, xoay cổ tay để đạt hiệu quả cao nhất.
 
-> **[CHÈN HÌNH ẢNH MÀN HÌNH THU THẬP (collect_extra_data) TẠI ĐÂY]**
+> ![Collect Image](img/collect.PNG)
 > *Hình 3: Giao diện thu thập dữ liệu với hiệu ứng thông báo "ĐÃ LƯU".*
 
 ---
@@ -52,7 +52,7 @@ Công cụ giúp người dùng dạy từ mới cho máy. Có các chỉ dẫn 
 ### 4. Chức Năng Huấn Luyện Mô Hình (Training)
 Sau khi thu thập dữ liệu, chức năng này sẽ kích hoạt thuật toán Machine Learning để học các mẫu mới. Quá trình được hiển thị qua thanh tiến độ chi tiết.
 
-> **[CHÈN HÌNH ẢNH LOG HUẤN LUYỆN (train_model đang chạy trên launcher) TẠI ĐÂY]**
+> ![Collect Image](img/training.PNG)
 > *Hình 4: Quá trình huấn luyện mô hình với thanh tiến độ thời gian thực.*
 
 ---
@@ -106,7 +106,7 @@ Nếu bạn muốn tùy chỉnh mã nguồn, vui lòng cài đặt môi trườn
 
 1.  **Clone Repo:**
     ```bash
-    git clone https://github.com/your-username/sign-language-ai.git
+    git clone https://github.com/shan369rpa/RECOGNIZE-SIGN-LANGUAGE/tree/master
     ```
 2.  **Cài đặt thư viện:**
     ```bash
@@ -121,7 +121,6 @@ Nếu bạn muốn tùy chỉnh mã nguồn, vui lòng cài đặt môi trườn
 ---
 
 **Liên hệ hỗ trợ:**
-*   Email: [Email của bạn]
-*   Website: [Website của bạn nếu có]
+*   Email: shan369rpa@gmail.com
 
 *Copyright © 2026 AI Sign Language Project. All rights reserved.*
